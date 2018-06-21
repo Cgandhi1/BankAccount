@@ -26,7 +26,7 @@ namespace CoreConsoleApp
         }
         
     }
-
+//sup
     public class BankAccount
     {
         public string AccountNumber { get; set; }
